@@ -129,7 +129,7 @@ This section is used for specifying credentials used for storage methods.
 * **`database`** - the database which should be used by LuckPerms
 * **`username`** - the username to be used
 * **`password`** - the password to be used. Leave empty to use no authentication.
-
+* *Optional `useSSL: false` flag can be added here, can help reduce spam to the console
 
 ##### Example
 ```yaml
